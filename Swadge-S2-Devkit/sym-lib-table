@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Swadge_Parts")(type "Legacy")(uri "${KIPRJMOD}/../Swadge-Parts/Swadge_Parts.lib")(options "")(descr ""))
+)
