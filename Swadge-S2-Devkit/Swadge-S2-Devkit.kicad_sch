@@ -377,9 +377,9 @@
 
 
   (no_connect (at 281.94 50.8) (uuid e2673b7c-e103-49fa-98d5-69b8ba8dd292))
-  (no_connect (at 176.53 78.74) (uuid e2673b7c-e103-49fa-98d5-69b8ba8dd292))
-  (no_connect (at 176.53 81.28) (uuid e2673b7c-e103-49fa-98d5-69b8ba8dd292))
-  (no_connect (at 281.94 48.26) (uuid e2673b7c-e103-49fa-98d5-69b8ba8dd292))
+  (no_connect (at 176.53 78.74) (uuid e2673b7c-e103-49fa-98d5-69b8ba8dd293))
+  (no_connect (at 176.53 81.28) (uuid e2673b7c-e103-49fa-98d5-69b8ba8dd294))
+  (no_connect (at 281.94 48.26) (uuid e2673b7c-e103-49fa-98d5-69b8ba8dd295))
 
   (symbol (lib_id "Swadge_Parts:BUS_PCIexpress") (at 220.98 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
