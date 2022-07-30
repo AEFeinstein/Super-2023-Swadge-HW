@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="38.306374mm"
+   height="5.2774887mm"
+   viewBox="0 0 38.306374 5.2774887"
+   version="1.1"
+   id="svg6362"
+   sodipodi:docname="squarewavebird.svg"
+   inkscape:version="1.2-beta (1b65182ce9, 2022-04-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6364"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2"
+     inkscape:cx="165.25"
+     inkscape:cy="2"
+     inkscape:window-width="1858"
+     inkscape:window-height="1177"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g15498" />
+  <defs
+     id="defs6359" />
+  <g
+     inkscape:label="[fixed] BG"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     id="g15484"
+     transform="translate(-13.932588,-37.048754)">
+    <path
+       style="fill:none;fill-opacity:0.351759;stroke:#00ff00;stroke-width:0.0499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.502513"
+       d="m 13.73933,38.6771 c 0,0 9.176528,3.60495 19.333587,3.60495 10.157058,0 19.333586,-3.60495 19.333586,-3.60495"
+       id="path12738"
+       sodipodi:nodetypes="czc" />
+  </g>
+  <g
+     inkscape:label="Edge.Cuts"
+     inkscape:groupmode="layer"
+     id="g15486"
+     transform="translate(-13.932588,-37.048754)" />
+  <g
+     inkscape:label="B.Cu"
+     inkscape:groupmode="layer"
+     id="g15488"
+     transform="translate(-13.932588,-37.048754)" />
+  <g
+     inkscape:label="B.Mask"
+     inkscape:groupmode="layer"
+     id="g15490"
+     transform="translate(-13.932588,-37.048754)" />
+  <g
+     inkscape:label="B.SilkS"
+     inkscape:groupmode="layer"
+     id="g15492"
+     transform="translate(-13.932588,-37.048754)" />
+  <g
+     inkscape:label="F.Cu"
+     inkscape:groupmode="layer"
+     id="g15494"
+     transform="translate(-13.932588,-37.048754)" />
+  <g
+     inkscape:label="F.Mask"
+     inkscape:groupmode="layer"
+     id="g15496"
+     transform="translate(-13.932588,-37.048754)" />
+  <g
+     inkscape:label="F.SilkS"
+     inkscape:groupmode="layer"
+     id="g15498"
+     transform="translate(-13.932588,-37.048754)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Radio Stars';-inkscape-font-specification:'Radio Stars';letter-spacing:0.502708px;fill:#000000;fill-opacity:1;stroke-width:0.366668;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.574324"
+       id="text6537"><textPath
+         xlink:href="#path12738"
+         id="textPath13923"><tspan
+           id="tspan6535"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Radio Stars';-inkscape-font-specification:'Radio Stars';fill:#000000;fill-opacity:1;stroke-width:0.366667">SQUAREWAVEBIRD</tspan></textPath></text>
+  </g>
+  <g
+     inkscape:label="Dwgs.User"
+     inkscape:groupmode="layer"
+     id="g15500"
+     transform="translate(-13.932588,-37.048754)" />
+  <g
+     inkscape:label="Drill"
+     inkscape:groupmode="layer"
+     id="g15502"
+     transform="translate(-13.932588,-37.048754)" />
+</svg>

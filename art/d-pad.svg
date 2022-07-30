@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24.665199mm"
+   height="24.665197mm"
+   viewBox="0 0 24.665199 24.665197"
+   version="1.1"
+   id="svg20066"
+   sodipodi:docname="d-pad.svg"
+   inkscape:version="1.2-beta (1b65182ce9, 2022-04-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview20068"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.6819304"
+     inkscape:cx="45.483451"
+     inkscape:cy="101.66889"
+     inkscape:window-width="1858"
+     inkscape:window-height="1177"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g20195" />
+  <defs
+     id="defs20063" />
+  <g
+     inkscape:label="[fixed] BG"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     id="g20195"
+     transform="translate(-38.006386,-38.635622)" />
+  <g
+     inkscape:label="Edge.Cuts"
+     inkscape:groupmode="layer"
+     id="g20197"
+     transform="translate(-38.006386,-38.635622)" />
+  <g
+     inkscape:label="B.Cu"
+     inkscape:groupmode="layer"
+     id="g20199"
+     transform="translate(-38.006386,-38.635622)" />
+  <g
+     inkscape:label="B.Mask"
+     inkscape:groupmode="layer"
+     id="g20201"
+     transform="translate(-38.006386,-38.635622)" />
+  <g
+     inkscape:label="B.SilkS"
+     inkscape:groupmode="layer"
+     id="g20203"
+     transform="translate(-38.006386,-38.635622)" />
+  <g
+     inkscape:label="F.Cu"
+     inkscape:groupmode="layer"
+     id="g20205"
+     transform="translate(-38.006386,-38.635622)" />
+  <g
+     inkscape:label="F.Mask"
+     inkscape:groupmode="layer"
+     id="g20207"
+     transform="translate(-38.006386,-38.635622)" />
+  <g
+     inkscape:label="F.SilkS"
+     inkscape:groupmode="layer"
+     id="g20209"
+     transform="translate(-38.006386,-38.635622)">
+    <path
+       id="rect19562"
+       style="fill:none;fill-opacity:0.351759;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 46.996295,38.935622 v 8.689908 h -8.689909 v 6.685897 h 8.689909 v 8.689393 h 6.6859 v -8.689393 h 8.68939 V 47.62553 h -8.68939 v -8.689908 z" />
+  </g>
+  <g
+     inkscape:label="Dwgs.User"
+     inkscape:groupmode="layer"
+     id="g20211"
+     transform="translate(-38.006386,-38.635622)" />
+  <g
+     inkscape:label="Drill"
+     inkscape:groupmode="layer"
+     id="g20213"
+     transform="translate(-38.006386,-38.635622)" />
+</svg>

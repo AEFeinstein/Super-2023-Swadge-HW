@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="26.520899mm"
+   height="1.8164808mm"
+   viewBox="0 0 26.520899 1.8164808"
+   version="1.1"
+   id="svg18868"
+   sodipodi:docname="select-start.svg"
+   inkscape:version="1.2-beta (1b65182ce9, 2022-04-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview18870"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="6.7277216"
+     inkscape:cx="52.097875"
+     inkscape:cy="8.6210463"
+     inkscape:window-width="1858"
+     inkscape:window-height="1177"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g18997" />
+  <defs
+     id="defs18865" />
+  <g
+     inkscape:label="[fixed] BG"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     id="g18997"
+     transform="translate(-37.078535,-63.273962)" />
+  <g
+     inkscape:label="Edge.Cuts"
+     inkscape:groupmode="layer"
+     id="g18999"
+     transform="translate(-37.078535,-63.273962)" />
+  <g
+     inkscape:label="B.Cu"
+     inkscape:groupmode="layer"
+     id="g19001"
+     transform="translate(-37.078535,-63.273962)" />
+  <g
+     inkscape:label="B.Mask"
+     inkscape:groupmode="layer"
+     id="g19003"
+     transform="translate(-37.078535,-63.273962)" />
+  <g
+     inkscape:label="B.SilkS"
+     inkscape:groupmode="layer"
+     id="g19005"
+     transform="translate(-37.078535,-63.273962)" />
+  <g
+     inkscape:label="F.Cu"
+     inkscape:groupmode="layer"
+     id="g19007"
+     transform="translate(-37.078535,-63.273962)" />
+  <g
+     inkscape:label="F.Mask"
+     inkscape:groupmode="layer"
+     id="g19009"
+     transform="translate(-37.078535,-63.273962)" />
+  <g
+     inkscape:label="F.SilkS"
+     inkscape:groupmode="layer"
+     id="g19011"
+     transform="translate(-37.078535,-63.273962)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Radio Stars';-inkscape-font-specification:'Radio Stars';letter-spacing:-0.00529167px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.502513"
+       x="36.84676"
+       y="65.077362"
+       id="text16965"><tspan
+         sodipodi:role="line"
+         id="tspan16963"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05"
+         x="36.84676"
+         y="65.077362">Select</tspan></text>
+    <g
+       id="g17052"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(9.9999996e-7,0,0,9.9999996e-7,138.43517,-13.809697)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175e+06px;font-family:'Radio Stars';-inkscape-font-specification:'Radio Stars';letter-spacing:-5291.67px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:49999.9;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.502513"
+         x="-85541408"
+         y="78898552"
+         id="text16965-7"><tspan
+           sodipodi:role="line"
+           id="tspan16963-9"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:50000"
+           x="-85541408"
+           y="78898552">St</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175e+06px;font-family:'Radio Stars';-inkscape-font-specification:'Radio Stars';fill:#000000;fill-opacity:1;stroke:none;stroke-width:49999.9;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.502513"
+         x="-81531816"
+         y="78896968"
+         id="text17046"><tspan
+           sodipodi:role="line"
+           id="tspan17044"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:50000"
+           x="-81531816"
+           y="78896968">art</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:label="Dwgs.User"
+     inkscape:groupmode="layer"
+     id="g19013"
+     transform="translate(-37.078535,-63.273962)" />
+  <g
+     inkscape:label="Drill"
+     inkscape:groupmode="layer"
+     id="g19015"
+     transform="translate(-37.078535,-63.273962)" />
+</svg>
