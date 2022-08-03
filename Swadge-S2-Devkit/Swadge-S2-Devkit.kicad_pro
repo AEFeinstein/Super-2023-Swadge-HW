@@ -382,7 +382,8 @@
           "5VIN",
           "BATTMID",
           "BATTMID2",
-          "BATTPLUS"
+          "BATTPLUS",
+          "SNODE"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
