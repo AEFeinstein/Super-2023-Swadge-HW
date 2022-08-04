@@ -379,6 +379,7 @@
         "microvia_drill": 0.1,
         "name": "Power",
         "nets": [
+          "+5V",
           "5VIN",
           "BATTMID",
           "BATTMID2",
@@ -404,7 +405,6 @@
         "name": "PowerNotPower",
         "nets": [
           "+3V3",
-          "+5V",
           "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
