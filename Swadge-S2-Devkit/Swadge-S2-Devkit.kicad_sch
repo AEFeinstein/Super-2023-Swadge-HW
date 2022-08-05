@@ -6585,10 +6585,10 @@
     (property "Reference" "ART6" (id 0) (at 193.04 146.05 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "art_xy_buttons" (id 1) (at 193.04 148.59 0)
+    (property "Value" "" (id 1) (at 193.04 148.59 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Swadge_Parts:XY_Buttons" (id 2) (at 187.96 137.16 0)
+    (property "Footprint" "" (id 2) (at 187.96 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 187.96 142.24 0)
@@ -11512,7 +11512,7 @@
       (reference "ART5") (unit 1) (value "art_select_start") (footprint "Swadge_Parts:select-start")
     )
     (path "/124ba641-cee9-4e92-be15-b26f5356268e"
-      (reference "ART6") (unit 1) (value "art_xy_buttons") (footprint "Swadge_Parts:XY_Buttons")
+      (reference "ART6") (unit 1) (value "art_xy_buttons") (footprint "Swadge_Parts:XY_Buttons2")
     )
     (path "/50423250-2217-49e3-9e3d-d8972fba598e"
       (reference "ART7") (unit 1) (value "art_squarewavebird") (footprint "Swadge_Parts:squarewavebird")
