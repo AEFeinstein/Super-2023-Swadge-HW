@@ -9268,7 +9268,7 @@
     (property "Substitutable" "Y" (id 7) (at 311.15 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C3029632" (id 8) (at 311.785 67.31 0)
+    (property "LCSC" "C3012328" (id 8) (at 311.785 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid e120478c-78db-4884-b729-ad7ddb810832))
