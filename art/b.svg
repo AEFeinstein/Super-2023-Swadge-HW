@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2.1431251mm"
+   height="1.8033999mm"
+   viewBox="0 0 2.1431251 1.8033999"
+   version="1.1"
+   id="svg1000"
+   sodipodi:docname="b.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1002"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="8.8391522"
+     inkscape:cx="-0.62223162"
+     inkscape:cy="28.622655"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1143" />
+  <defs
+     id="defs997" />
+  <g
+     inkscape:label="[fixed] BG"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     id="g1129"
+     transform="translate(-13.746159,-46.423147)" />
+  <g
+     inkscape:label="Edge.Cuts"
+     inkscape:groupmode="layer"
+     id="g1131"
+     transform="translate(-13.7462, -46.4231)" />
+  <g
+     inkscape:label="B.Cu"
+     inkscape:groupmode="layer"
+     id="g1133"
+     transform="translate(-13.746159,-46.423147)" />
+  <g
+     inkscape:label="B.Mask"
+     inkscape:groupmode="layer"
+     id="g1135"
+     transform="translate(-13.746159,-46.423147)" />
+  <g
+     inkscape:label="B.SilkS"
+     inkscape:groupmode="layer"
+     id="g1137"
+     transform="translate(-13.746159,-46.423147)" />
+  <g
+     inkscape:label="F.Cu"
+     inkscape:groupmode="layer"
+     id="g1139"
+     transform="translate(-13.746159,-46.423147)" />
+  <g
+     inkscape:label="F.Mask"
+     inkscape:groupmode="layer"
+     id="g1141"
+     transform="translate(-13.746159,-46.423147)" />
+  <g
+     inkscape:label="F.SilkS"
+     inkscape:groupmode="layer"
+     id="g1143"
+     transform="translate(-13.746159,-46.423147)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Radio Stars';-inkscape-font-specification:'Radio Stars';letter-spacing:-0.00529167px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.502513"
+       x="13.514384"
+       y="48.226547"
+       id="text16965-7"
+       transform="translate(-4.1070833e-5,4.5895833e-5)"><tspan
+         sodipodi:role="line"
+         id="tspan16963-2"
+         style="font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05"
+         x="13.514384"
+         y="48.226547">B</tspan><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05"
+         x="13.514384"
+         y="52.195297"
+         id="tspan816" /></text>
+  </g>
+  <g
+     inkscape:label="Dwgs.User"
+     inkscape:groupmode="layer"
+     id="g1145"
+     transform="translate(-13.746159,-46.423147)" />
+  <g
+     inkscape:label="Drill"
+     inkscape:groupmode="layer"
+     id="g1147"
+     transform="translate(-13.7462, -46.4231)" />
+</svg>
