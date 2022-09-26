@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="18.872173mm"
+   height="15.83976mm"
+   viewBox="0 0 18.872173 15.83976"
+   version="1.1"
+   id="svg5582"
+   sodipodi:docname="select_start_menu.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5584"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="9.5144352"
+     inkscape:cx="31.058071"
+     inkscape:cy="33.948416"
+     inkscape:window-width="1858"
+     inkscape:window-height="1177"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5768" />
+  <defs
+     id="defs5579" />
+  <g
+     inkscape:label="[fixed] BG"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     id="g5768"
+     transform="translate(-49.712223,-43.677578)" />
+  <g
+     inkscape:label="Edge.Cuts"
+     inkscape:groupmode="layer"
+     id="g5770"
+     transform="translate(-49.7122, -43.6776)" />
+  <g
+     inkscape:label="B.Cu"
+     inkscape:groupmode="layer"
+     id="g5772"
+     transform="translate(-49.712223,-43.677578)" />
+  <g
+     inkscape:label="B.Mask"
+     inkscape:groupmode="layer"
+     id="g5774"
+     transform="translate(-49.712223,-43.677578)" />
+  <g
+     inkscape:label="B.SilkS"
+     inkscape:groupmode="layer"
+     id="g5776"
+     transform="translate(-49.712223,-43.677578)" />
+  <g
+     inkscape:label="F.Cu"
+     inkscape:groupmode="layer"
+     id="g5778"
+     transform="translate(-49.712223,-43.677578)" />
+  <g
+     inkscape:label="F.Mask"
+     inkscape:groupmode="layer"
+     id="g5780"
+     transform="translate(-49.712223,-43.677578)" />
+  <g
+     inkscape:label="F.SilkS"
+     inkscape:groupmode="layer"
+     id="g5782"
+     transform="translate(-49.712223,-43.677578)">
+    <g
+       id="g59782"
+       style="fill:#000000;fill-opacity:1;stroke-width:2.81104"
+       transform="matrix(0.35574073,0,0,0.35574073,-82.39212,80.181831)">
+      <text
+         xml:space="preserve"
+         style="font-size:7.40746px;font-family:'Jenriv Titling';-inkscape-font-specification:'Jenriv Titling';fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.3571;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.669811"
+         x="388.79324"
+         y="-58.199745"
+         id="text59420"><tspan
+           sodipodi:role="line"
+           id="tspan59418"
+           style="fill:#000000;fill-opacity:1;stroke-width:4.3571"
+           x="388.79324"
+           y="-58.199745">Menu</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:7.2386px;font-family:'Jenriv Titling';-inkscape-font-specification:'Jenriv Titling';fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.3571;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.669811"
+         x="401.35995"
+         y="-97.96035"
+         id="text59416"><tspan
+           sodipodi:role="line"
+           id="tspan59414"
+           style="fill:#000000;fill-opacity:1;stroke-width:4.3571"
+           x="401.35995"
+           y="-97.96035">Start</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:7.2386px;font-family:'Jenriv Titling';-inkscape-font-specification:'Jenriv Titling';fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.3571;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.669811"
+         x="371.01709"
+         y="-97.96035"
+         id="text59412"><tspan
+           sodipodi:role="line"
+           id="tspan59410"
+           style="fill:#000000;fill-opacity:1;stroke-width:4.3571"
+           x="371.01709"
+           y="-97.96035">Select</tspan></text>
+      <path
+         id="path59323"
+         style="fill:#000000;fill-opacity:1;stroke-width:2.81104"
+         d="m 383.82858,-69.78519 c -0.10746,-0.0019 -0.19364,0.02466 -0.2527,0.08372 -0.38722,0.387213 0.4959,2.680446 1.26608,3.287654 0.67233,0.530059 0.77979,0.792046 0.77979,1.90531 0,0.921706 0.12382,1.359599 0.43409,1.53324 0.68348,0.382492 1.35387,0.06763 1.92856,-0.906405 l 0.52968,-0.897619 h 21.3372 l 0.52969,0.897619 c 0.57469,0.974032 1.24508,1.288897 1.92856,0.906405 0.31027,-0.173641 0.43408,-0.611534 0.43408,-1.53324 0,-1.113264 0.10747,-1.375251 0.7798,-1.90531 0.77018,-0.607208 1.65329,-2.900441 1.26607,-3.287654 -0.0591,-0.05906 -0.14523,-0.08561 -0.2527,-0.08372 -0.58029,0.0102 -1.78711,0.858633 -2.7621,1.999878 l -1.21181,1.418518 H 387.8025 l -1.21181,-1.418518 c -0.975,-1.141245 -2.1818,-1.98968 -2.76211,-1.999878 z"
+         sodipodi:nodetypes="sssssccccsssssscccs" />
+    </g>
+  </g>
+  <g
+     inkscape:label="Dwgs.User"
+     inkscape:groupmode="layer"
+     id="g5784"
+     transform="translate(-49.712223,-43.677578)" />
+  <g
+     inkscape:label="Drill"
+     inkscape:groupmode="layer"
+     id="g5786"
+     transform="translate(-49.7122, -43.6776)" />
+</svg>
