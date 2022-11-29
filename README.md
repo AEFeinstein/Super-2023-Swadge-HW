@@ -19,6 +19,8 @@ If you have any questions, feel free to create a Github ticket or email us at ci
 
 ### `art`
 This directory has the SVGs used to generate the KiCad files. The SVGs are drawn in [Inkscape](https://inkscape.org/) and exported with [Svg2Shenzhen](https://github.com/badgeek/svg2shenzhen)
+### `3D-Print`
+This directory has the 3D print files for the Swadge "Eggshell". 
 ### `SAOs/SAO1`
 This directory has the design files for a Simple Add On shaped like Lil'B
 ### `shield`
