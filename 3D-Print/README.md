@@ -21,13 +21,12 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
    
-  <h2 align="center">Project Eggshell</h2>
+  <h1 align="center">Project Eggshell</h1>
 
   <p align="center">
     An ergonomic case for the 2023 Swadge
-<br /></p>
+</p>
     
 
 <!-- ABOUT THE PROJECT -->
@@ -37,10 +36,10 @@
 
 
 
-### Built With
+<p align="left">### Built With
 <br />
 
-* [SOLIDWORKS Professional Edition 2020](https://www.solidworks.com)
+* [SOLIDWORKS Professional Edition 2020(https://www.solidworks.com) </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -50,21 +49,21 @@
 ## Getting Started
 <br />
 
-Identify which type of printing technology you’d like to use to replicate your Swadge eggshell and use the respective files for that folder. It’s sincerely not recommended to use SLA files for FDM printers, though you could go the other way with significant resin use. 
+<p align="left">Identify which type of printing technology you’d like to use to replicate your Swadge eggshell and use the respective files for that folder. It’s sincerely not recommended to use SLA files for FDM printers, though you could go the other way with significant resin use. 
 <br />
 
 ### Materials
 <br />
 
-* <a href="https://www.amazon.com/Polymaker-Filament-1-75mm-Resistant-Cardboard/dp/B09DKQ7W32"> Purple ABS </a>
-* <a href="https://www.amazon.com/dp/B08SQTR1FV">ClearPurple Resin</a> 
-
+<a href="https://www.amazon.com/Polymaker-Filament-1-75mm-Resistant-Cardboard/dp/B09DKQ7W32"> Purple ABS </a>
+<a href="https://www.amazon.com/dp/B08SQTR1FV">ClearPurple Resin</a> 
+</p>
 <p align="center">AND</p>
-
+<p align="left">
 FDM 3D printer capable of printing ABS filament with a minimum build volume of 150mm x 55mm x 20mm. Each piece was printed grip side UP and laid flat on the build plate. The eggshell was designed to minimize excess support structure. 15% infill should be plenty.
-
+</p>
 <p align="center">OR</p>
-
+<p align="left">
 SLA printer capable of printing clear UV resin with a minimum build volume of 150mm x 55mm x 20mm. This has been tested on an Anycubic Photon Mono X for SLA prints with the following settings:
 
 * Burn in layers: 6
@@ -73,10 +72,10 @@ SLA printer capable of printing clear UV resin with a minimum build volume of 15
 * UV power: 100%
 
 Each side of the eggshell was printed individually at a 45deg angle based on True Elite Geek’s formula for resin printing. The grip surfaces were the supported side and gently sanded with 150 grit sandpaper post-printing.
-
+</p>
 <p align="center">OR</p>
 
-Money to spend at www.HUBS.com or www.shapeways.com to outsource prints.
+<p align="left">Money to spend at www.HUBS.com or www.shapeways.com to outsource prints.</p>
 
 ### Assembly
 
