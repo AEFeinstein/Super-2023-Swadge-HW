@@ -28,11 +28,13 @@
     An ergonomic case for the 2023 Swadge
 </p>
 
+![Eggshell Render](eggshell.jpg "Eggshell Render")
+
 
 ### Built With
 <br />
 
-* [SOLIDWORKS Professional Edition 2020 (https://www.solidworks.com) 
+* [SOLIDWORKS Professional Edition 2020](https://www.solidworks.com) 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -52,10 +54,11 @@ Identify which type of printing technology you’d like to use to replicate your S
 
 <a href="https://www.amazon.com/dp/B08SQTR1FV">ClearPurple Resin</a> 
 
-<p align="center">AND</p>
+AND
+
 FDM 3D printer capable of printing ABS filament with a minimum build volume of 150mm x 55mm x 20mm. Each piece was printed grip side UP and laid flat on the build plate. The eggshell was designed to minimize excess support structure. 15% infill should be plenty.
 
-<p align="center">OR</p>
+OR
 
 SLA printer capable of printing clear UV resin with a minimum build volume of 150mm x 55mm x 20mm. This has been tested on an Anycubic Photon Mono X for SLA prints with the following settings:
 
@@ -66,7 +69,7 @@ SLA printer capable of printing clear UV resin with a minimum build volume of 15
 
 Each side of the eggshell was printed individually at a 45deg angle based on True Elite Geek’s formula for resin printing. The grip surfaces were the supported side and gently sanded with 150 grit sandpaper post-printing.
 
-<p align="center">OR</p>
+OR
 
 <p align="left">Money to spend at www.HUBS.com or www.shapeways.com to outsource prints.</p>
 
@@ -76,7 +79,8 @@ FDM and SLA prints are assembled differently. IF you are using a tappable resin 
 
 FDM Fasteners:
 
-Any #6 x 5/8" self tapping screw. The eggshells were delivered at Magfest 2023 with these screws: https://www.mcmaster.com/92470A150/
+Any #6 x 5/8" self tapping screw. The eggshells were delivered at Magfest 2023 with these screws: 
+* Screws: https://www.mcmaster.com/92470A150/
 
 SLA Fasteners:
 
@@ -117,7 +121,7 @@ Emily Anthony - [@thelegendofemily](https://instagram.com/thelegendofemily)
 Justin Gohlke –
 [@justintroubleagain]( https://www.instagram.com/justintroubleagain/)
 
-Project Link: [https://github.com/AEFeinstein/Super-2023-Swadge-HW/tree/main/3D-Print)
+Project Link: https://github.com/AEFeinstein/Super-2023-Swadge-HW/
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
