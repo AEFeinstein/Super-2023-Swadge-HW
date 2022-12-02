@@ -28,7 +28,7 @@
     An ergonomic case for the 2023 Swadge
 </p>
 
-![Eggshell Render](eggshell.jpg "Eggshell Render")
+![Eggshell Render](eggshell.JPG "Eggshell Render")
 
 
 ### Built With
