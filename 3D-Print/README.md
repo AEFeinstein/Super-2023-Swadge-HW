@@ -18,10 +18,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -37,36 +33,15 @@
 <br />
     
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 ### Built With
+<br />
 
 * [SOLIDWORKS Professional Edition 2020](https://www.solidworks.com)
 
@@ -76,10 +51,13 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
+<br />
 
 Identify which type of printing technology you’d like to use to replicate your Swadge eggshell and use the respective files for that folder. It’s sincerely not recommended to use SLA files for FDM printers, though you could go the other way with significant resin use. 
+<br />
 
 ### Materials
+<br />
 
 * <a href="https://www.amazon.com/Polymaker-Filament-1-75mm-Resistant-Cardboard/dp/B09DKQ7W32"> Purple ABS </a>
 * <a href="https://www.amazon.com/dp/B08SQTR1FV">ClearPurple Resin</a> 
