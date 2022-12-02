@@ -17,20 +17,17 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
    
-  <h3 align="center">Project Eggshell</h3>
+  <h2 align="center">Project Eggshell</h2>
 
   <p align="center">
     An ergonomic case for the 2023 Swadge
-<br />
+<br /></p>
     
 
 <!-- ABOUT THE PROJECT -->
