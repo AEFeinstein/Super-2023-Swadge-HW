@@ -28,7 +28,7 @@
     An ergonomic case for the 2023 Swadge
 </p>
 
-![Eggshell Render](eggshell.PNG "Eggshell Render")
+![Eggshell Render](eggshell.png "Eggshell Render")
 
 
 ### Built With
@@ -48,26 +48,29 @@ Identify which type of printing technology you’d like to use to replicate your S
 <br />
 
 ### Materials
-<br />
 
-<a href="https://www.amazon.com/Polymaker-Filament-1-75mm-Resistant-Cardboard/dp/B09DKQ7W32"> Purple ABS </a>
+Materials required vary based on your printing method.
 
-<a href="https://www.amazon.com/dp/B08SQTR1FV">ClearPurple Resin</a> 
+The materials used for the Eggshells produced for Super MAGFest 2023 are provided at the links below:
 
-AND
+* <a href="https://www.amazon.com/Polymaker-Filament-1-75mm-Resistant-Cardboard/dp/B09DKQ7W32"> Purple ABS </a>
 
-FDM 3D printer capable of printing ABS filament with a minimum build volume of 150mm x 55mm x 20mm. Each piece was printed grip side UP and laid flat on the build plate. The eggshell was designed to minimize excess support structure. 15% infill should be plenty.
+* <a href="https://www.amazon.com/dp/B08SQTR1FV">ClearPurple Resin</a> 
+
+You’ll also need:
+
+An FDM 3D printer capable of printing ABS filament with a minimum build volume of 150mm x 55mm x 20mm. Each piece was printed grip side UP and laid flat on the build plate. The eggshell was designed to minimize excess support structure. 15% infill should be plenty.
 
 OR
 
-SLA printer capable of printing clear UV resin with a minimum build volume of 150mm x 55mm x 20mm. This has been tested on an Anycubic Photon Mono X for SLA prints with the following settings:
+An SLA printer capable of printing clear UV resin with a minimum build volume of 150mm x 55mm x 20mm. This has been tested on an Anycubic Photon Mono X for SLA prints with the following settings:
 
 * Burn in layers: 6
 * Burn in time: 35s
 * Layer time: 3.2s
 * UV power: 100%
 
-Each side of the eggshell was printed individually at a 45deg angle based on True Elite Geek’s formula for resin printing. The grip surfaces were the supported side and gently sanded with 150 grit sandpaper post-printing.
+Each side of the eggshell was printed individually at a 45deg angle based on True Elite Geek’s formula for resin printing. The grip surfaces were the supported side and gently sanded with 150 grit sandpaper post-printing, and then clear coated for finish.
 
 OR
 
@@ -79,12 +82,12 @@ FDM and SLA prints are assembled differently. IF you are using a tappable resin 
 
 FDM Fasteners:
 
-Any #6 x 5/8" self tapping screw. The eggshells were delivered at Magfest 2023 with these screws: 
+Any #6 x 5/8" self tapping screw. The eggshells were delivered at MAGFest 2023 with these screws: 
 * Screws: https://www.mcmaster.com/92470A150/
 
 SLA Fasteners:
 
-The clear purple resin is not tappable. Use a press fit insert and a 6-32 x 1/2" screw instead. The eggshells were delivered at Magfest 2023 with these fasteners:
+The clear purple resin is not tappable. Use a press fit insert and a 6-32 x 1/2" screw instead. The eggshells were delivered at MAGFest 2023 with these fasteners:
 * Threaded inserts: https://www.mcmaster.com/92395A113/
 * Screws: https://www.mcmaster.com/91772A146/
  
@@ -94,7 +97,7 @@ The clear purple resin is not tappable. Use a press fit insert and a 6-32 x 1/2"
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
@@ -131,7 +134,8 @@ Project Link: https://github.com/AEFeinstein/Super-2023-Swadge-HW/
 ## Acknowledgments
 
 * Justin Gohlke aka Eggman for being the mad scientist and dedicated printer for this project
-* The Swadge team for letting Justin and Emily go buckwild
+* The Swadge team for idea generation, continuous feedback, and general tolerance for Justin and Emily to go buckwild
+* MAGFest volunteers and employees for their overwhelming support and willingness to help push this side project
 * [OthNealDrew’s Readme template]( https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
