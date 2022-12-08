@@ -28,13 +28,13 @@
     An ergonomic case for the 2023 Swadge
 </p>
 
-![Eggshell Render](eggshell.JPG "Eggshell Render")
+![Eggshell Render](eggshell.PNG "Eggshell Render")
 
 
 ### Built With
 <br />
 
-* [SOLIDWORKS Professional Edition 2020](https://www.solidworks.com) 
+* [SOLIDWORKS 2020](https://www.solidworks.com) 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
